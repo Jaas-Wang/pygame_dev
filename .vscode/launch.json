@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Pygame dev",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
