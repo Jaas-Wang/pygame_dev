@@ -1,5 +1,6 @@
 {
     "configurations": [
+    
         {
             "name": "Python: Pygame dev",
             "type": "python",
